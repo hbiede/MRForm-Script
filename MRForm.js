@@ -2,7 +2,7 @@
 // @name        WME Form Filler KS/MO
 // @description Use info from WME to automatically fill out related forms - for the KS/MO MapRaid
 // @namespace   hbiede.com
-// @version     2019.07.22.001
+// @version     2019.07.23.001
 // @include     /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor.*$/
 // @author      HBiede
 // @license     MIT
